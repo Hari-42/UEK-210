@@ -1,0 +1,58 @@
+1. Wie ist der Begriff Cloud entstanden? Wieso heisst es Cloud?
+    Cloud heißt "Cloud", weil Daten und Dienste nicht lokal, sondern über das Internet
+    von externen Servern bereitgestellt werden, ähnlich wie aus einer unsichtbaren "Wolke".
+
+2. Wie wird der Begriff Cloud definiert, z.B gemäss NIST?
+    "Cloud Computing ist ein Modell für den ortsunabhängigen, bedarfsgesteuerten Zugriff auf einen gemeinsamen Pool
+    von konfigurierbaren IT-Ressourcen (wie Netzwerke, Server, Speicher, Anwendungen und Dienste),
+    die schnell bereitgestellt und mit minimalem Verwaltungsaufwand genutzt werden können."
+
+    Quelle: https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf
+
+3. Welches sind die 5 Merkmale einer Cloud?
+    1. On-Demand Self-service
+    2. breiter Netzwerkzugang
+    3. Ressourcen-Pooling
+    4. schnelle Elastizität
+    5. messbare Dienste
+
+4. Welche Cloud Dienstleistungen kennen Sie?
+    IaaS(Infrastructure as a Service)
+    PaaS(Platform as a Service)
+    SaaS(Software as a Service)
+
+5.Welche Cloud Anbieter kennen Sie?
+    Amazon Web Services(AWS)
+    iCloud(apple)
+    Dropbox
+
+6. Welche Cloud Deployment Modelle kennen Sie?
+    Public Cloud, wird von einem Drittanbieter öffentlich bereitgestellt und von allen Nutzern zugänglich gemacht.
+    Private Cloud, wird ausschliesslich für ein einzelnes Unternehmen betrieben und kann entweder intern oder durch einen Drittanbieter bereitgestellt.
+    Hybrid Cloud, kombiniert Public und Private Cloud, sodass Daten und Anwendungen zwischen beiden Umgebungen ausgetauscht werden können.
+    Community Cloud, wird von mehreren Organisationen mit ähnlichen Anforderungen gemeinsam genutzt.
+
+7. Was sind Cloud Service Modelle?
+    Es sind Service Arten in welche die Cloud Lösungen kommen. Zum Beispiel gibt es die IaaS, PaaS und SaaS.
+
+8. Weshalb soll ich Dienste aus der Cloud beziehen? Was sind die Vorteile?
+    Kostensenkung: Keine Notwendigkeit für zusätzliche Festplatten oder Computer.
+
+    Zugänglichkeit: Dienste sind von überall über das Internet verfügbar.
+
+    Sicherheit: Hohe Sicherheitsstandards und zuverlässige Backups.
+
+    Automatische Updates: Regelmäßige Aktualisierungen ohne eigenen Aufwand.
+
+9. Was sind die Nachteile?
+    Abhängigkeit vom Anbieter: Wenn der Anbieter gehackt wird oder einen Ausfall gibt,kann es auch schädlich für dein Unternehmen sein.
+
+    Schwierige Datenmigration: Ein Wechsel zu einem anderen Anbieter kann kompliziert, teuer und zeitaufwändig sein.
+
+
+10. Welche Dienstleistungen werden in Ihrem Betrieb On-Premise (eigenes Rechenzentrum) betrieben?
+    Interne Datenbanken, Authentifizierung, Backup-Systeme und sensible Fachanwendungen werden im eigenen Rechenzentrum betrieben.
+
+
+11. Wie werden technologische Beiträge in der Cloud geteilt bzw. zur Verfügung gestellt?
+    Beiträge werden über gesicherte Plattformen wie GitHub oder SharePoint geteilt, mit Zugriffskontrollen und klar definierten Berechtigungen.
