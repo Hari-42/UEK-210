@@ -10,16 +10,17 @@
     Quelle: https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf
 
 3. Welches sind die 5 Merkmale einer Cloud?
-    1. On-Demand Self-service
+    1. On-Demand Self-service, man bezahlt für das was man bekommt, der Zugriff ist jederzeit,
     2. breiter Netzwerkzugang
     3. Ressourcen-Pooling
     4. schnelle Elastizität
     5. messbare Dienste
 
 4. Welche Cloud Dienstleistungen kennen Sie?
-    IaaS(Infrastructure as a Service)
+    IaaS(Infrastructure as a Service) Netzwerk, Speicher und Server
     PaaS(Platform as a Service)
     SaaS(Software as a Service)
+    FaaS(Function as a Service)
 
 5.Welche Cloud Anbieter kennen Sie?
     Amazon Web Services(AWS)
@@ -56,3 +57,10 @@
 
 11. Wie werden technologische Beiträge in der Cloud geteilt bzw. zur Verfügung gestellt?
     Beiträge werden über gesicherte Plattformen wie GitHub oder SharePoint geteilt, mit Zugriffskontrollen und klar definierten Berechtigungen.
+
+
+12. Wie kann man Cloud service verwalten?
+
+    CLI = Command Line Interface
+    API = application programming interface
+    WEBCONSOLE
